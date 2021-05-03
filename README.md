@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Thisara
 
 - 🔭 I’m currently working on ... Node JS / Express
 - 🌱 I’m currently learning ... React JS
@@ -8,3 +8,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisara-jayamuni)](https://github.com/anuraghazra/github-readme-stats)
