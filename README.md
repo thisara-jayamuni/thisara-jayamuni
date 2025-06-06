@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Thisara
 
-- 🔭 I’m currently working on ... Node JS / Express
-- 🌱 I’m currently learning ... React JS
-- 👯 I’m looking to collaborate on ... React JS
+- 🔭 I’m currently working on ... React / Next JS / Node JS / Express
+- 🌱 I’m currently learning ... Next JS 
+- 👯 I’m looking to collaborate on ... Next JS
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
